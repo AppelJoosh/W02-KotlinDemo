@@ -6,7 +6,8 @@ These aren't always needed but are a good habit to get into.
 
 ## String interpolation
 
-Use `$` for variables; for a function call or when using object properties, don't forget the curly braces.
+Use `$` for variables; for a function call or when using object properties, don't forget the curly 
+braces.
 
 ## Using ?:
 
